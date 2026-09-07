@@ -38,8 +38,8 @@ Set a realistic, minimum-viable funding goal rather than an aspirational one, fa
 
 | File | Description |
 |---|---|
-| `KickStarter_Final.ipynb` | Full analysis notebook: data cleaning, feature engineering, EDA, model training, and evaluation |
-| `Final_Project_Report.docx` | Full written report covering research questions, methodology, results, and business recommendations |
+| `KickStarter_FinalNotebook.ipynb` | Full analysis notebook: data cleaning, feature engineering, EDA, model training, and evaluation |
+| `Final Project ABA.docx` | Full written report covering research questions, methodology, results, and business recommendations |
 
 ## Limitations
 
